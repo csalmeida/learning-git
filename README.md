@@ -1,4 +1,5 @@
 # Learning Git!
+
 Learning how to use Git. 
 
 Most used commands:
@@ -6,6 +7,8 @@ git status - tells you what has been updated.
 git add filename - adding a file to staging and Git will start tracking changes.
 git commit -m "message content" - registers changes to get ready to upload, a message is also required.
 git push - pushing a file/changes on to Github.
+*git pull - do it every time you get back to the project before you make any changes.
+
 
 Other commands:
 git diff filename - see the differences between the working directory and the staging area.
@@ -24,4 +27,7 @@ Having different branches allows you to work on multiple versions. Your main bra
 git branch - tells you which branch you're on.
 git branch new_branch - to create a new branch.
 git checkout branch_name - to switch to another branch.
+
+=======
+
 
